@@ -1,4 +1,4 @@
-# spotify-account-generator-v3
+# spotify-account-generator
 
 # Usage
 
