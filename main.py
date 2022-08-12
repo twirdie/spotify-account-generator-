@@ -119,7 +119,7 @@ def main():
         except Exception as e:
             pass
 
-ape = (Fore.LIGHTBLUE_EX + f"""
+ape = (Fore.WHITE + f"""
   /$$$$$$                        /$$     /$$  /$$$$$$          
  /$$__  $$                      | $$    |__/ /$$__  $$         
 | $$  \__/  /$$$$$$   /$$$$$$  /$$$$$$   /$$| $$  \__//$$   /$$
@@ -130,8 +130,9 @@ ape = (Fore.LIGHTBLUE_EX + f"""
  \______/ | $$____/  \______/    \___/  |__/|__/      \____  $$
           | $$                                        /$$  | $$
           | $$                                       |  $$$$$$/
-          |__/                                        \______/                          
-                                                                                                 
+          |__/                                        \______/     
+ LMAO
+ Github.com/twirdie                                                                                                      
 """)   
 
 MAIN = MAIN()
