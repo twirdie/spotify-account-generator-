@@ -2,7 +2,13 @@
 
 #Usage
 
-Firstly put your proxies to proxies.txt file
+**pip install -r requirements.txt
 
 
-Then run "main.py"
+Firstly put your proxies to **proxies.txt** file
+
+Then run **"main.py"**
+
+
+
+
