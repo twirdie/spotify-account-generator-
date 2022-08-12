@@ -2,7 +2,7 @@
 
 # Usage
 
-**pip install -r requirements.txt
+**pip install -r requirements.txt**
 
 
 Firstly put your proxies to **proxies.txt** file
