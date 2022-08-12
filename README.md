@@ -1,6 +1,6 @@
 # spotify-account-generator
 
-###Usage
+### Usage
 
 
 1.Open cmd and type following commands
