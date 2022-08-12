@@ -9,6 +9,8 @@
 pip install -r requirements.txt
   ```
 2.Then put your proxies to **proxies.txt** file
+
+
 3.run **"main.py"**
 
 
