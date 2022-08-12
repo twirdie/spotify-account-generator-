@@ -1,6 +1,6 @@
 # spotify-account-generator-v3
 
-#Usage
+# Usage
 
 **pip install -r requirements.txt
 
