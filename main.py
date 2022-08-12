@@ -61,7 +61,7 @@ class MAIN:
         self.title()
         try:
             email = ("").join(random.choices(string.ascii_letters + string.digits, k=16)) + "@spotify.com"
-            password = ("").join(random.choices(string.ascii_letters + string.digits, k=16))
+            password = ("").join(random.choices(string.ascii_letters + string.digits, k=5)) + "twirdie1337"
             username  = "twirdie1337"     
             proxiess = { 
             "http": f"http://{proxy}", 
