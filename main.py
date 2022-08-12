@@ -13,6 +13,10 @@ proxy_counter = 0
 counter = 0
 
 w = Fore.WHITE
+g = Fore.GREEN
+r = Fore.RED
+b = Fore.BLUE
+y = Fore.YELLOW
 l = Fore.LIGHTBLUE_EX
 rs = Style.RESET_ALL
 
@@ -119,8 +123,8 @@ def main():
         except Exception as e:
             pass
 
-ape = (Fore.WHITE + f"""
-  /$$$$$$                        /$$     /$$  /$$$$$$          
+ape = (Fore.GREEN + f"""
+      /$$$$$$                        /$$     /$$  /$$$$$$          
  /$$__  $$                      | $$    |__/ /$$__  $$         
 | $$  \__/  /$$$$$$   /$$$$$$  /$$$$$$   /$$| $$  \__//$$   /$$
 |  $$$$$$  /$$__  $$ /$$__  $$|_  $$_/  | $$| $$$$   | $$  | $$
@@ -130,9 +134,8 @@ ape = (Fore.WHITE + f"""
  \______/ | $$____/  \______/    \___/  |__/|__/      \____  $$
           | $$                                        /$$  | $$
           | $$                                       |  $$$$$$/
-          |__/                                        \______/     
- LMAO
- Github.com/twirdie                                                                                                      
+          |__/                                        \______/ 
+ {y}twirdie#1337 // Github.com/twirdie{rs}                                                                                                   
 """)   
 
 MAIN = MAIN()
